@@ -14,6 +14,7 @@
 		6573192925E1773D0047AF84 /* Art_Book.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6573192725E1773D0047AF84 /* Art_Book.xcdatamodeld */; };
 		6573192B25E177480047AF84 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6573192A25E177480047AF84 /* Assets.xcassets */; };
 		6573192E25E177480047AF84 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6573192C25E177480047AF84 /* LaunchScreen.storyboard */; };
+		65A2C2E125E3C696007DF30B /* detailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65A2C2E025E3C696007DF30B /* detailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		6573192A25E177480047AF84 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6573192D25E177480047AF84 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6573192F25E177480047AF84 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		65A2C2E025E3C696007DF30B /* detailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = detailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				6573192C25E177480047AF84 /* LaunchScreen.storyboard */,
 				6573192F25E177480047AF84 /* Info.plist */,
 				6573192725E1773D0047AF84 /* Art_Book.xcdatamodeld */,
+				65A2C2E025E3C696007DF30B /* detailsViewController.swift */,
 			);
 			path = "Art Book";
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65A2C2E125E3C696007DF30B /* detailsViewController.swift in Sources */,
 				6573192325E1773D0047AF84 /* ViewController.swift in Sources */,
 				6573191F25E1773C0047AF84 /* AppDelegate.swift in Sources */,
 				6573192925E1773D0047AF84 /* Art_Book.xcdatamodeld in Sources */,
